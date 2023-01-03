@@ -2,7 +2,7 @@
 
 <div>
  <img height="50%" src="https://my-stats-one.vercel.app/api?username=encinecarlos&count_private=true&custom_title=Atividade&show_icons=true&theme=blueberry">
- <img src="https://my-stats-one.vercel.app/pi/top-langs?username=encinecarlos">
+ <img height="50%" src="https://my-stats-one.vercel.app/api/top-langs?username=encinecarlos">
 </duv>
  
 
