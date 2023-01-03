@@ -1,10 +1,8 @@
 # Salve povo! Bem-vindos a minha humilde conta no Github 😎
 
 <div>
-  <a href="https://github.com/encinecarlos">
-  <img height="50%" src="https://my-stats-one.vercel.app/api?username=encinecarlos&count_private=true&&custom_title=Minhas Contribuições e afins&show_icons=true&theme=radical">
-  <img height="50%" src="https://my-stats-one.vercel.app/api/top-langs?username=encinecarlos&custom_title=O que andei programando&layout=compact&theme=radical">
-</div>
+  [Minhas contribuições](https://my-stats-one.vercel.app/api?username=encinecarlos&count_private=true&&custom_title=Minhas Contribuições e afins&show_icons=true&theme=blueberry)
+ 
 
 ## Alguns dos meus projetos
   <div>
