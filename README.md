@@ -1,9 +1,8 @@
 # Salve povo! Bem-vindos a minha humilde conta no Github 😎
-
 <div>
- <img align="center" src="https://my-stats-one.vercel.app/api?username=encinecarlos&count_private=true&custom_title=Atividade&show_icons=true&theme=blueberry">
+ <img heigth="180em" src="https://my-stats-one.vercel.app/api?username=encinecarlos&count_private=true&custom_title=Atividade&show_icons=true&theme=blueberry">
  <!--<img height="50%" src="https://my-stats-one.vercel.app/api/top-langs?username=encinecarlos">-->
-</duv>
+</div>
  
 
 ## Alguns dos meus projetos
